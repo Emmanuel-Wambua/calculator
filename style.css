@@ -44,11 +44,12 @@ button:active{
     background-color: rgb(135, 135, 141);
 }
 .operator{
-    background-color: orange;
+    background-color: rgb(250, 246, 239);
+    color: black;
 }
 .operator:hover{
-    background-color: rgb(236, 165, 34);
+    background-color: rgb(204, 201, 195);
 }
 .operator:active{
-    background-color: rgb(206, 159, 73);
+    background-color: rgb(61, 61, 60);
 }
